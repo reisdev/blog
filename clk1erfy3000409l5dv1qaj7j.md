@@ -96,7 +96,7 @@ Considerando que o nome do nosso arquivo é `artigos.json`, ele pode ser lido da
 
 ```swift
 // Caminho para um arquivo
-let filePath = Bundle.main.path(forResource: “artigos”, ofType: "json")
+let filePath = Bundle.main.path(forResource: "artigos", ofType: "json")
 
 // Transforma o conteúdo do arquivo em Data
 let data = try? Data(contentsOf: filePath)
