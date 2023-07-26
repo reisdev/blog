@@ -3,7 +3,6 @@ title: "O que preciso saber  para aprender React?"
 datePublished: Thu Apr 08 2021 22:54:04 GMT+0000 (Coordinated Universal Time)
 cuid: cknawq15w03mhh2s1fhb95yad
 slug: o-que-preciso-saber-para-aprender-react
-canonical: https://dev.to/reisdev/o-que-preciso-saber-para-aprender-react-1cag
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618008835627/nryJTeI4M.jpeg
 tags: javascript, reactjs, beginners, frontend-development
 
