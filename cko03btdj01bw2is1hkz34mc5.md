@@ -3,7 +3,6 @@ title: "Tratamento de Exceção com erros customizados em Swift"
 datePublished: Tue Apr 27 2021 13:54:08 GMT+0000 (Coordinated Universal Time)
 cuid: cko03btdj01bw2is1hkz34mc5
 slug: tratamento-de-excecao-com-erros-customizados-em-swift
-canonical: https://dev.to/reisdev/tratamento-de-excecao-com-erros-customizados-em-swift-403b
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1619531580214/lI-17-ywC.jpeg
 tags: swift, ios, error-handling
 
