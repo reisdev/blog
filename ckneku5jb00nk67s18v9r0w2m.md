@@ -3,7 +3,6 @@ title: "Operador de Nullish Coalescing (??) em Javascript"
 datePublished: Mon Apr 12 2021 12:33:21 GMT+0000 (Coordinated Universal Time)
 cuid: ckneku5jb00nk67s18v9r0w2m
 slug: operador-de-nullish-coalescing-em-javascript
-canonical: https://dev.to/reisdev/js-operador-nullish-coalescing-2g35
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618230819020/vJeR1cjQy.jpeg
 tags: javascript, learning, beginners
 
