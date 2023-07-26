@@ -3,7 +3,6 @@ title: "Como usar variáveis de ambiente sem biblioteca em React"
 datePublished: Tue Apr 20 2021 11:02:19 GMT+0000 (Coordinated Universal Time)
 cuid: cknpx3wrh0t57lps16sq4hjqw
 slug: como-usar-variaveis-de-ambiente-sem-biblioteca-em-react
-canonical: https://dev.to/reisdev/como-usar-variaveis-de-ambiente-sem-biblioteca-em-react-1ce6
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618915931972/rV5KTNAAz.jpeg
 tags: cloud, security, reactjs, devops
 
