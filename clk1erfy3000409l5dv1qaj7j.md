@@ -3,7 +3,6 @@ title: "Como decodificar JSON em Swift"
 datePublished: Thu Jul 13 2023 17:12:33 GMT+0000 (Coordinated Universal Time)
 cuid: clk1erfy3000409l5dv1qaj7j
 slug: como-decodificar-json-em-swift
-canonical: https://dev.to/reisdev/como-decodificar-json-em-swift-2dpe
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681906256557/ad9507da-9e53-4509-bd9e-ca2e3e8deefa.jpeg
 tags: tutorial, swift, ios, beginners
 
