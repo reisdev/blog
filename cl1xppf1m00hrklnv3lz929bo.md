@@ -3,7 +3,6 @@ title: "Variáveis e Constantes em Swift"
 datePublished: Wed Apr 13 2022 15:13:08 GMT+0000 (Coordinated Universal Time)
 cuid: cl1xppf1m00hrklnv3lz929bo
 slug: variaveis-e-constantes-em-swift
-canonical: https://dev.to/reisdev/variaveis-e-constantes-em-swift-1ddm
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649862588135/gbs6RXskj.jpg
 tags: swift, ios, beginners
 
