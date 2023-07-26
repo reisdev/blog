@@ -3,7 +3,6 @@ title: "Design: Arte ou Processo?"
 datePublished: Thu Mar 25 2021 03:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cknawmuul03m2h2s1fxnhb82f
 slug: design-arte-ou-processo
-canonical: https://dev.to/reisdev/design-arte-ou-processo-3loe
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618008631602/DvMIztlj_.png
 tags: creativity, design, developer
 
