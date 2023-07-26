@@ -3,7 +3,6 @@ title: "Como escrever códigos mais padronizados?"
 datePublished: Sun Oct 10 2021 18:15:25 GMT+0000 (Coordinated Universal Time)
 cuid: ckuljrke607jvrvs146fwh7p3
 slug: como-escrever-codigos-mais-padronizados
-canonical: https://dev.to/reisdev/como-escrever-codigos-mais-padronizados-5hm0
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1633889478884/xSaQrs6Ct.jpeg
 tags: styleguide, learning, beginners, programming-languages
 
