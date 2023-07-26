@@ -3,7 +3,6 @@ title: "Optional em Swift"
 datePublished: Tue Apr 26 2022 21:26:20 GMT+0000 (Coordinated Universal Time)
 cuid: cl2gnrfsu01th01nv2scz6yaw
 slug: optional-em-swift
-canonical: https://dev.to/reisdev/optionals-em-swift-4lh0
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651008246962/aHW3Q8fbC.jpg
 tags: swift, ios, beginners
 
