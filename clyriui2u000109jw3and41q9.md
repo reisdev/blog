@@ -4,7 +4,7 @@ datePublished: Thu Jul 18 2024 17:04:48 GMT+0000 (Coordinated Universal Time)
 cuid: clyriui2u000109jw3and41q9
 slug: como-programar-em-swift-no-linux
 canonical: https://dev.to/reisdev/como-programar-em-swift-no-linux-52j5
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721321546991/8038a3ce-2df6-4770-bba7-5435689f6a5a.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721339764376/e1d27cb2-e9ab-45de-9ec1-0cb2ff550748.png
 tags: tutorial, linux, swift, beginners
 
 ---
